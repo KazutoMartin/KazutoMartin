@@ -1,5 +1,5 @@
 Hi, I’m Matin <br/>
-I’m interested in Python <br/>
+I love web development and I love googling stuff :)) <br/>
 I’m currently learning django channels <br/>
 I’m looking to collaborate on web projects using python (django, django rest framework, django channels, working with APIs , ...) <br/>
 📫 How to reach me : <br/>

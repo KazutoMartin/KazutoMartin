@@ -1,6 +1,6 @@
 - 👋 Matin Razaghi
 - 🌐 Iran, Tehran *🇮🇷*
 - 🐍 Python
-- 📫 mahdiebi.exe@gmail.com
+- 📫 kazutomartin20.com
 - 📱 instagram  : @matin.martiny
 - 📱 Linkedin   : https://www.linkedin.com/in/matin-razaghi-zade-634b161b3/

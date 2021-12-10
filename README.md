@@ -4,7 +4,7 @@
 
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=15C4DB&size=30&lines=It's+Matin!;I+love+GOOGLING+^^;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=15C4DB&size=30&lines=It's+Matin!;I+love+GOOGLING+^^;&center=true)](https://git.io/typing-svg)
 
 
 <p></p>
